@@ -61,7 +61,7 @@ analytics initiatives using Agile and hybrid project management approaches.
 👉 [Download Resume](https://github.com/tarajeeclarke/resume/blob/main/TaraJee%20Clarke%20Resume.pdf)
 
 🔗 **LinkedIn**  
-👉 https://www.linkedin.com/in/tarajee-clarke
+👉 https://www.linkedin.com/in/tarajeeclarke
 
 📧 **Email**  
-👉 tarajee.clarke@email.com
+👉 tarajee.clarke@gmail.com
