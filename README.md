@@ -12,7 +12,7 @@ analytics initiatives using Agile and hybrid project management approaches.
 ---
 
 ## Core Skills
-**Analytics & BI:** SQL, Python, Power BI, Tableau, Excel  
+**Analytics & BI:** SQL, Python, Power BI, Excel  
 **Health Informatics:** EHR concepts, interoperability, pharmacovigilance, population health  
 **Project Management:** Agile, risk management, stakeholder engagement, process improvement  
 
