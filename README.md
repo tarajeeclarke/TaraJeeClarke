@@ -21,7 +21,7 @@ analytics initiatives using Agile and hybrid project management approaches.
 ## Project Management Projects
 - - **Telemedicine Program Implementation & Access Optimization**  
   *Healthcare IT project improving access to care through telehealth delivery*  
-  👉 [View Project](https://github.com/tarajeeclarke/TeleMedicine-Access-Optimization)
+  👉 [View Project](https://github.com/tarajeeclarke/telemedicine-access-optimization)
 
 - **Enterprise Healthcare Cybersecurity Risk Management Program**  
   *Risk assessment and governance framework aligned with NIST CSF*  
