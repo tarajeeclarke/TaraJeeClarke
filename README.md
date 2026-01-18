@@ -24,8 +24,9 @@ analytics initiatives using Agile and hybrid project management approaches.
   👉 [View Project](https://github.com/tarajeeclarke/telemedicine-access-optimization)
 
 - **Enterprise Healthcare Cybersecurity Risk Management Program**  
-  *Risk assessment and governance framework aligned with NIST CSF*  
-  👉 [View Project](link-here)
+  *Healthcare cybersecurity governance, risk, and incident response initiative*  
+  👉 [View Project](https://github.com/tarajeeclarke/healthcare-cybersecurity-risk-management)
+
 
 ---
 
